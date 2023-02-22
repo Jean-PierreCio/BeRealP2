@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/Jean-PierreCio/BeRealP2/blob/main/Berealp2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Jean-PierreCio/BeRealP2/blob/main/newGif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with KAP  
